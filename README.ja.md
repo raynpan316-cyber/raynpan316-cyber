@@ -2,11 +2,11 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · **日本語**
 
-本業はグロース施策とグローバルマーケティング。動画編集もします。編集の手を止める作業が何度も出てくると、コーディングエージェントと一緒に自分用のツールを作りたくなります。
+本業はグロース施策。AI について発信しながら、バイブコーディングでプロダクトを作っています。アイデアからリリースまでの過程も公開しています（Build in Public）。
 
-## 最近作っているもの
+## プロジェクト
 
-🕷️ **[Webbie](https://github.com/raynpan316-cyber/webbie)** · 1 時間の動画から、編集に使いたいのはたった 1 分。そんなときのために作った Mac アプリです。
+🕷️ **[Webbie](https://github.com/raynpan316-cyber/webbie)** · 時間範囲を指定して動画や音声をダウンロードできる macOS アプリ。
 
 ## まじめな肩書きと、そうでもない肩書き
 
@@ -15,4 +15,4 @@
 ☕️ コーヒーチャット好き · 🌴 旅をするために生まれた · 🫘 豆瓣の「鹅组」「踩组」メンバー<br>
 💿 欧米の音楽オタク · ❌ AI 音楽はもう一生作らない
 
-作っているもの、途中で変えたこと、リリースのお知らせを公開しています。気軽に声をかけてください。 [小紅書](https://www.xiaohongshu.com/user/profile/5edcdd31000000000101cbdb) · [X](https://x.com/raynpann)
+気軽に声をかけてください。 [小紅書](https://www.xiaohongshu.com/user/profile/5edcdd31000000000101cbdb) · [X](https://x.com/raynpann)
