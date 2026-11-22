@@ -1,19 +1,18 @@
-# Hi, I’m Rayn 👋
+# Rayn
 
-**English** · [中文](README.zh-CN.md)
+**English** · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
 
-I work in growth and global marketing, make videos, and build tools for the parts of creative work I keep doing by hand. I came to building from a non-engineering background. Coding agents helped me go from spotting a friction point to making a product I can use in my own workflow.
+Growth and global marketing by day. Somewhere between edits, I started making my own tools with coding agents. If a step keeps interrupting my work, it usually ends up on my list of things to build.
 
-✍️ [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5edcdd31000000000101cbdb) · 🐦 [X](https://x.com/raynpann)
+## On my desk
 
----
+🕷️ **[Webbie](https://github.com/raynpan316-cyber/webbie)** · My macOS tool for the moment I’m watching an hour-long video and realize I only need one minute of it.
 
-## 🕷️ Featured build · Webbie
+## The unofficial résumé
 
-When I edit videos, sometimes I need one minute from an hour-long source. I built Webbie so I could paste a link, pick the start and end, and save the clip straight to my Mac.
+🤵 Growth operations specialist · 🎮 Ran global marketing for a product with 100M ARR<br>
+🦹 ENTP · 💻 Vibe coding in progress · ✍️ 500 followers on Xiaohongshu (bio update at 1K :))<br>
+☕️ Coffee chat enthusiast · 🌴 Born to travel · 🫘 Member of Douban’s E Zu & Cai Zu<br>
+💿 Obsessed with Western music · ❌ Never making AI music again
 
-[**Webbie for macOS →**](https://github.com/raynpan316-cyber/webbie)
-
-## 🛠️ Build in public
-
-I share the tools I’m building, the decisions behind them, and what changes with each release. If you make things too, come say hi.
+I share what I’m building, what I change along the way, and when it ships. Come say hi. [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5edcdd31000000000101cbdb) · [X](https://x.com/raynpann)
