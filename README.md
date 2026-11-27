@@ -12,7 +12,6 @@ I’m a growth specialist and make content about AI. I vibe-code products and bu
 
 🤵 Growth operations specialist · 🎮 Ran global marketing for a product with 100M ARR<br>
 🦹 ENTP · 💻 Vibe coding in progress · ✍️ 500 followers on Xiaohongshu (bio update at 1K :))<br>
-☕️ Coffee chat enthusiast · 🌴 Born to travel · 🫘 Member of Douban’s E Zu & Cai Zu<br>
-💿 Obsessed with Western music · ❌ Never making AI music again
+☕️ Coffee chat enthusiast · 🌴 Born to travel
 
 Come say hi. [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5edcdd31000000000101cbdb) · [X](https://x.com/raynpann)
